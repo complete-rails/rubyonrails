@@ -58,4 +58,7 @@ class WelcomeController < ApplicationController
 
   def php
   end
+
+  def react
+  end
 end
