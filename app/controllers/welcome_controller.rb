@@ -46,19 +46,4 @@ class WelcomeController < ApplicationController
 
   def lesson15
   end
-
-  def lesson16
-  end
-
-  def memo
-  end
-
-  def swift
-  end
-
-  def php
-  end
-
-  def react
-  end
 end

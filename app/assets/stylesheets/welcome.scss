@@ -79,30 +79,12 @@ header {
 .free {
   color: rgb(92, 81, 79);
 }
-#memo a {
-  text-decoration: none;
-  pointer-events: none;
-}
-#comming-soon a {
-  text-decoration: none;
-  pointer-events: none;
-}
-#comming-soon span {
-  font-size: 13px;
-}
-#memo li {
-  list-style: none;
-}
-#comming-soon li {
-  list-style: none;
-}
+
 #no-finish {
   text-align: center;
   font-size: 14px;
 }
-#job {
-  font-size: 14px;
-}
+
 
 @media screen and ( max-width: 600px ), ( max-device-width: 480px ) {
   .container {
